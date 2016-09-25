@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#c897f4</color>
+    <color name="colorPrimaryDark">#b781e9</color>
+    <color name="colorAccent">#c897f4</color>
+    <color name="colortext">#100b20</color>
+    <color name="colorhint">#a9aaac</color>
+
+    <color name="registerForAnAccountBlueLinkColor">#FF0428F5</color>
+</resources>
